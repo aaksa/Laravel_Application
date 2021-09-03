@@ -1,4 +1,4 @@
-<footer class="bg-dark text-center text-white">
+<footer class="bg-dark text-center text-white foot" >
     <!-- Grid container -->
     <div class="container p-4 pb-0">
       <!-- Section: Social media -->
@@ -72,7 +72,7 @@
 
       footer {
           opacity:0.9 ;
-      }
+         
 
      
   </style>

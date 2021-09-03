@@ -30,6 +30,47 @@
 
     }
 
+    .trending-image {
+        height: 100px;
+        border-radius: 10px;
+        margin-top: 10px;
+        opacity: 0.9;
+    }
+    .trending-item {
+        float: left;
+        width: 20%;
+      
+    }
+
+    .trending-item h3 {
+        margin-left: 15px;
+        font-size: 22px;
+      
+    }
+
+    .trending-item a {
+        text-decoration: none;
+        color: aliceblue;
+      
+    }
+
+    .foot {
+        clear: both;
+
+      }
+      .trending-wrapper {
+          margin: 30px;
+          margin-left: 60px;
+          color: aliceblue;
+       
+      }
+
+      .detail-img {
+          height: 300px;
+      }
+
+    }
+
 
 </style>
 
